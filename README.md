@@ -1,6 +1,6 @@
-Frogger In Canvas
+Here come dat boi!!!
 =================
 
-HTML5 Canvas-based version of the classic arcade game Frogger.
+o shit waddup!
 
-Built as part of the book "Pro JavaScript Development - Coding, Capabilities and Tooling" by Den Odell, published by Apress, 2014.
+Source code by Den Odell, published by Apress, 2014.
